@@ -1,4 +1,4 @@
-a = 10
-b = 3
+a = int(input("Enter number 1 : "))
+b = int(input("Enter number 2:"))
 c = a+ b
 print("Sum of number ", a , " + ", b, " = ", c)
